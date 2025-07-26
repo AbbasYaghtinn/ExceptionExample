@@ -1,0 +1,2 @@
+# ExceptionExample
+custom exceptions
